@@ -15,13 +15,13 @@ Below are core software modules maintained by our department that support genera
 
 | Module | Purpose | Repository |
 |---|---|---|
-| Smoothing | Temporal filtering / smoothing of raw motion time series | `gesture-smoothing` |
-| Normalization | Scaling, alignment, normalization across participants / sessions | `gesture-normalization` |
-| Merge ELAN + MediaPipe | Merge synchronization of ELAN annotations with pose/face/hands data | `gesture-merge` |
-| Kinematics (Speed / Acc / Jerk) | Compute derivatives of motion: velocity, acceleration, jerk | `gesture-kinematics` |
-| Submovements & Holds | Detect movement segments, pauses, hold events | `gesture-submovements` |
-| Gesture Space & 2D Projection | Dimensionality reduction / embedding of gesture trajectories | `gesture-space2d` |
-| Heatmap & Visualization | Plot heatmaps, grids, visual summaries of gesture metrics | `gesture-heatmap` |
+| [Smoothing](https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing) | Temporal filtering / smoothing of raw motion time series | `gesture-smoothing` |
+| [Normalization](https://github.com/Multimodal-Language-Department-MPI-NL/Normalization) | Scaling, alignment, normalization across participants / sessions | `gesture-normalization` |
+| [Merge ELAN + MediaPipe](https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN) | Merge synchronization of ELAN annotations with pose/face/hands data | `gesture-merge` |
+| [Kinematics (Speed / Acc / Jerk)](https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk) | Compute derivatives of motion: velocity, acceleration, jerk | `gesture-kinematics` |
+| [Submovements & Holds](https://github.com/Multimodal-Language-Department-MPI-NL/Submovements_Holds) | Detect movement segments, pauses, hold events | `gesture-submovements` |
+| [Gesture Space & 2D Projection](https://github.com/Multimodal-Language-Department-MPI-NL/Macneillian_Space_and_2D_Size) | Dimensionality reduction / embedding of gesture trajectories | `gesture-space2d` |
+| [Heatmap & Visualization](https://github.com/Multimodal-Language-Department-MPI-NL/Heatmap) | Plot heatmaps, grids, visual summaries of gesture metrics | `gesture-heatmap` |
 
 *(Click the names above to go to each repository.)*
 
@@ -33,8 +33,8 @@ These are research code projects by other labs or collaborators in our departmen
 
 | Project | Description | Link / Repository |
 |---|---|---|
-| [Project A] | e.g. Gesture + prosody alignment in native language corpora | (link) |
-| [Project B] | VR-based multimodal simulation environment | (link) |
+| [Medal Workshop] | Methods for the automatic processing of multimodal interaction | [medal_workshop_on_multimodal_interaction](https://github.com/Multimodal-Language-Department-MPI-NL/medal_workshop_on_multimodal_interaction) |
+| [WhisperX Tutorial] | Tutorial for transcribing speech automatically using WhisperX | [whisperx_tutorial](https://github.com/Multimodal-Language-Department-MPI-NL/whisperx_tutorial) |
 | [Project C] | Gesture-to-semantic mapping / multimodal embeddings | (link) |
 
 ---
