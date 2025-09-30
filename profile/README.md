@@ -23,7 +23,6 @@ Below are core software modules maintained by our department that support genera
 | [Gesture Space & 2D Projection](https://github.com/Multimodal-Language-Department-MPI-NL/Macneillian_Space_and_2D_Size) | Dimensionality reduction / embedding of gesture trajectories | `gesture-space2d` |
 | [Heatmap & Visualization](https://github.com/Multimodal-Language-Department-MPI-NL/Heatmap) | Plot heatmaps, grids, visual summaries of gesture metrics | `gesture-heatmap` |
 
-*(Click the names above to go to each repository.)*
 
 ---
 
