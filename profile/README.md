@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="logo.png" alt="Multimodal Language Department — MPI" width="200"/>
+<p align="left">
+  <img src="assets/logo.png" alt="Multimodal Language Department Logo" width="200"/>
 </p>
 
 # Multimodal Language Department – MPI for Psycholinguistics
