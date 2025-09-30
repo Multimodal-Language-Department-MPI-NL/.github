@@ -60,4 +60,3 @@ This repository is solely for the **organization profile**. It does **not** cont
 
 ---
 
-*(To apply this: upload your `logo.png` into `.github/profile/`, then paste this into `README.md` in that folder.)*
