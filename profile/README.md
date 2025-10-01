@@ -9,9 +9,9 @@ More info: [MPI Multimodal Language Department](https://www.mpi.nl/department/mu
 
 ---
 
-## Software for Gesture / Kinematic Analytics
+## code for Kinematic Analytics
 
-Below are core software modules maintained by our department that support general motion, gesture, and kinematic analyses. Each repository is designed to be installable and runnable on its own.
+Below are core code modules maintained by our department that support general kinematic analyses. Each repository is designed to be installable and runnable on its own.
 
 | Module | Purpose | Repository |
 |---|---|---|
@@ -22,6 +22,8 @@ Below are core software modules maintained by our department that support genera
 | [Submovements & Holds](https://github.com/Multimodal-Language-Department-MPI-NL/Submovements_Holds) | Detect movement segments, pauses, hold events | `gesture-submovements` |
 | [Gesture Space & 2D Projection](https://github.com/Multimodal-Language-Department-MPI-NL/Macneillian_Space_and_2D_Size) | Dimensionality reduction / embedding of gesture trajectories | `gesture-space2d` |
 | [Heatmap & Visualization](https://github.com/Multimodal-Language-Department-MPI-NL/Heatmap) | Plot heatmaps, grids, visual summaries of gesture metrics | `gesture-heatmap` |
+| [Extracting MediaPipe keypoints](https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction) | Extract MediaPipe keypoints from video data | `gesture-keypoints` |
+
 
 
 ---
