@@ -36,8 +36,8 @@ These are research code projects by other labs or collaborators in our departmen
 |---|---|---|
 | [Medal Workshop] | Methods for the automatic processing of multimodal interaction | [medal_workshop_on_multimodal_interaction](https://github.com/Multimodal-Language-Department-MPI-NL/medal_workshop_on_multimodal_interaction) |
 | [WhisperX Tutorial] | Tutorial for transcribing speech automatically using WhisperX | [whisperx_tutorial](https://github.com/Multimodal-Language-Department-MPI-NL/whisperx_tutorial) |
-| [Project C] | Gesture-to-semantic mapping / multimodal embeddings | (link) |
-
+| [Dynamic time warping] | Validating dynamic time warping as a measure of gesture form similarity | [dynamic time warping](https://github.com/Multimodal-Language-Department-MPI-NL/dtw_osf) |
+| [Project D] | Gesture-to-semantic mapping / multimodal embeddings | (link) |
 ---
 
 This repository is solely for the **organization profile**. It does **not** contain analysis code or data. For actual software and data, please navigate via the repositories listed above.
