@@ -11,7 +11,7 @@ More info: [MPI Multimodal Language Department](https://www.mpi.nl/department/mu
 
 ## code for Kinematic Analytics
 
-Below are core code modules maintained by our department that support general kinematic analyses. Each repository is designed to be installable and runnable on its own.
+Below are core code modules maintained by our department that support general kinematic analyses of gestures/signs. Each repository is designed to be installable and runnable on its own.
 
 | Module | Purpose | Repository |
 |---|---|---|
@@ -30,28 +30,16 @@ Below are core code modules maintained by our department that support general ki
 
 ## Other Department Projects & Codebases
 
-These are research code projects by other labs or collaborators in our department. Their structure or maintenance may vary, but they often link to domain-specific methods or applications.
+These are research code projects by other collaborators in our department. Their structure or maintenance may vary, but they often link to domain-specific methods or applications.
 
 | Project | Description | Link / Repository |
 |---|---|---|
 | [Medal Workshop] | Methods for the automatic processing of multimodal interaction | [medal_workshop_on_multimodal_interaction](https://github.com/Multimodal-Language-Department-MPI-NL/medal_workshop_on_multimodal_interaction) |
 | [WhisperX Tutorial] | Tutorial for transcribing speech automatically using WhisperX | [whisperx_tutorial](https://github.com/Multimodal-Language-Department-MPI-NL/whisperx_tutorial) |
 | [Dynamic time warping] | Validating dynamic time warping as a measure of gesture form similarity | [dynamic time warping](https://github.com/Multimodal-Language-Department-MPI-NL/dtw_osf) |
+| [Gesture Segmentation] | Esam's gesture segmentation methods | (link) |
+| [DTW Analysis] | Sho's dynamic time warping analysis | (link) |
 | [Project D] | Gesture-to-semantic mapping / multimodal embeddings | (link) |
----
-
-This repository is solely for the **organization profile**. It does **not** contain analysis code or data. For actual software and data, please navigate via the repositories listed above.
-
----
-
-### How to Get Started
-
-1. Browse the module list above and choose a repository.  
-2. Clone or install that module per its README.  
-3. Place your raw data in the module’s `data/raw/` directory.  
-4. Run the module’s CLI to produce processed outputs and visualizations.  
-5. Explore the notebooks in each module for examples and explanations.
-
 ---
 
 ### Contact & Links
@@ -60,4 +48,3 @@ This repository is solely for the **organization profile**. It does **not** cont
 - MPI main site: [mpi.nl](https://www.mpi.nl)  
 
 ---
-
