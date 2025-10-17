@@ -9,20 +9,20 @@ More info: [MPI Multimodal Language Department](https://www.mpi.nl/department/mu
 
 ---
 
-## code for Kinematic Analytics
+## Foundational Code for Kinematic Analytics
 
-Below are core code modules maintained by our department that support general kinematic analyses of gestures/signs. Each repository is designed to be installable and runnable on its own.
+Below are foundational code modules used by members of our department that support general kinematic analyses of gestures and signs. Portions of many of these scripts are sourced and adapted from EnvisionBox (https://envisionbox.org) which maintains a library of coding modules for open exchange among researchers.
 
 | Module | Purpose | Repository |
 |---|---|---|
-| [Extracting MediaPipe keypoints](https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction) | Extract MediaPipe keypoints from video data | `gesture-keypoints` |
-| [Smoothing](https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing) | Temporal filtering / smoothing of raw motion time series | `gesture-smoothing` |
-| [Normalization](https://github.com/Multimodal-Language-Department-MPI-NL/Normalization) | Scaling, alignment, normalization across participants / sessions | `gesture-normalization` |
-| [Merging ELAN and MediaPipe](https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN) | Merge synchronization of ELAN annotations with pose/face/hands data | `gesture-merge` |
-| [Speed, Acceleration, and Jerk](https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk) | Compute derivatives of motion: velocity, acceleration, jerk | `gesture-kinematics` |
+| [Extracting MediaPipe keypoints](https://github.com/Multimodal-Language-Department-MPI-NL/MediaPipe_keypoints_extraction) | Extract motion tracking data from videos using MediaPipe | `gesture-keypoints` |
+| [Smoothing](https://github.com/Multimodal-Language-Department-MPI-NL/Smoothing) | Smooth raw motion tracking data to reduce noise due to tracking inaccuracies | `gesture-smoothing` |
+| [Normalization](https://github.com/Multimodal-Language-Department-MPI-NL/Normalization) | Normalize the size, position, and viewpoint of motion tracking data across participants | `gesture-normalization` |
+| [Merging ELAN and MediaPipe](https://github.com/Multimodal-Language-Department-MPI-NL/Merging_Motion_ELAN) | Merge motion tracking data with ELAN annotations | `gesture-merge` |
+| [Speed, Acceleration, and Jerk](https://github.com/Multimodal-Language-Department-MPI-NL/Speed_Acceleration_Jerk) | Calculate motion measures: velocity, acceleration, jerk | `gesture-kinematics` |
 | [Submovements and Holds](https://github.com/Multimodal-Language-Department-MPI-NL/Submovements_Holds) | Detect movement segments, pauses, hold events | `gesture-submovements` |
-| [Gesture Space, Size, and Volume](https://github.com/Multimodal-Language-Department-MPI-NL/Gesture_Space_Size_and_Volume) | Dimensionality reduction / embedding of gesture trajectories | `gesture-space` |
-| [Heatmap Visualization](https://github.com/Multimodal-Language-Department-MPI-NL/Heatmap) | Plot heatmaps, grids, visual summaries of gesture metrics | `gesture-heatmap` |
+| [Gesture Space, Size, and Volume](https://github.com/Multimodal-Language-Department-MPI-NL/Gesture_Space_Size_and_Volume) | Quantify use of gesture space (e.g., height, size, volume) | `gesture-space` |
+| [Heatmap Visualization](https://github.com/Multimodal-Language-Department-MPI-NL/Heatmap) | Plot heatmap scatterplot showing density of gesture locations | `gesture-heatmap` |
 
 
 
